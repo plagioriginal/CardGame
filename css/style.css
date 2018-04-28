@@ -1,0 +1,16 @@
+html {
+}
+
+html,
+body {
+	background-color: #eee;
+}
+
+.container-fluid {
+	padding: 15px;
+}
+
+#game-table {
+    float: none;
+    margin: 0 auto;
+}
